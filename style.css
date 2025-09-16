@@ -8,13 +8,6 @@ body{
 
 }
 
-index p {
-
-    text-align: left;
-
-
-}
-
 nav{
 
     background-color: #113557;
@@ -41,4 +34,16 @@ h1{
 
     color:#113557;
     background-color: #f3e48f;
+}
+
+footer{
+
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    background-color: #113557;
+    text-align: center;
+    padding: 10px;
+
 }
